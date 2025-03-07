@@ -120,7 +120,7 @@ use DI\ContainerBuilder;
               "success" => true,
               "total" =>$total_list,
               "data" => $resultData,
-              "message" => 'Haji list'
+              "message" => 'Haji list' 
     
                 
               );
